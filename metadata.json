@@ -1,0 +1,6 @@
+{
+  "name": "CSE Compass",
+  "description": "One Platform. Every CSE Path. Free Learning platform for BTech Computer Science students in India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
